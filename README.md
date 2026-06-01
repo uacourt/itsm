@@ -133,3 +133,5 @@ Contributors
 ------------
 
 * Maxim Sokhatsky
+* Yuri Ivanov
+
